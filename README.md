@@ -21,3 +21,13 @@ This tool aims to bridge the gap by providing a comprehensive platform specifica
 - **Time-Efficient:** Automates the plagiarism-checking process, reducing the need for manual work.
 - **Wide Domain Coverage:** Suited for various sectors, including academia, publishing, and other professional settings.
 
+## Contributors
+
+This project was developed with the valuable contributions of the following team members:
+
+* **Ahmad Hossain**
+* **Nihal Azman**
+* **Mahiv Khan Wasi**
+* **Rashidul Hassan**
+
+Each member contributed to the design, development, and improvement of the Bangla Plagiarism Detection Tool.
