@@ -25,9 +25,11 @@ This tool aims to bridge the gap by providing a comprehensive platform specifica
 
 This project was developed with the valuable contributions of the following team members:
 
-* **Ahmad Hossain**
-* **Nihal Azman**
-* **Mahiv Khan Wasi**
-* **Rashidul Hassan**
+* **[Ahmad Hossain](https://github.com/AhmadHossain8)**
+* **[Nihal Azman](https://github.com/nihal-azman-ananda)**
+* **[Mahiv Khan Wasi](https://github.com/Wasi0007)**
+* **[Rashidul Hassan](https://github.com/Rhb1728)**
 
 Each member contributed to the design, development, and improvement of the Bangla Plagiarism Detection Tool.
+
+
