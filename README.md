@@ -21,6 +21,10 @@ This tool aims to bridge the gap by providing a comprehensive platform specifica
 - **Time-Efficient:** Automates the plagiarism-checking process, reducing the need for manual work.
 - **Wide Domain Coverage:** Suited for various sectors, including academia, publishing, and other professional settings.
 
+## Project Paper
+
+The full research paper for this project is available in [`CSE_499.pdf`](CSE_499.pdf). It covers the problem background, methodology, system design, and evaluation of the Bangla plagiarism detection tool developed as part of the CSE 499 capstone project.
+
 ## Contributors
 
 This project was developed with the valuable contributions of the following team members:
